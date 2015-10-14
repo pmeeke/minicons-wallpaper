@@ -1,28 +1,40 @@
 {
   "walls": [
     {
-      "author": "Someone Designer",
+      "author": "rvc-2011",
       "url": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x1080.jpg",
       "thumb": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x1080_thumb.jpg",
-      "name": "Wallpaper 1"
+      "name": "Illumos 1"
     },
     {
-      "author": "Someone Designer",
-      "url": "http://pic.youmobile.org/imgcdn/bkg_08_august.jpg",
+      "author": "rvc-2011",
+      "url": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10801.jpg",
       "thumb": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10801_thumb.jpg",
-      "name": "Wallpaper 2"
+      "name": "Illumos 2"
     },
     {
-      "author": "Someone Designer",
-      "url": "http://i.imgur.com/aZlqiAT.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402410.png",
-      "name": "Wallpaper 3"
+      "author": "rvc-2011",
+      "url": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10802.jpg",
+      "thumb": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10802_thumb.jpg",
+      "name": "Illumos 3"
     },
     {
-      "author": "Someone Designer",
-      "url": "http://www.lirent.net/wp-content/uploads/2014/10/Android-Lollipop-wallpapers-p-800x500.png",
-      "thumb": "http://www.makeathumbnail.com/thumbnails/image402411.png",
-      "name": "Wallpaper 4"
+      "author": "rvc-2011",
+      "url": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10803.jpg",
+      "thumb": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10803_thumb.jpg",
+      "name": "Illumos 4"
+    },
+     {
+      "author": "rvc-2011",
+      "url": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10804.jpg",
+      "thumb": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10804_thumb.jpg",
+      "name": "Illumos 5"
+    },
+    {
+      "author": "rvc-2011",
+      "url": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10805.jpg",
+      "thumb": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10805_thumb.jpg",
+      "name": "Illumos 6"
     }
   ]
 }
