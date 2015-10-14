@@ -35,6 +35,18 @@
       "url": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10805.jpg",
       "thumb": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10805_thumb.jpg",
       "name": "Illumos 6"
+    },
+      {
+      "author": "Scaniatrucker",
+      "url": "http://dri2skomnje6l.cloudfront.net/174026-wallpaper-flat-earth-theory.jpg",
+      "thumb": "http://dri2skomnje6l.cloudfront.net/174026-wallpaper-flat-earth-theory_thumb.jpg",
+      "name": "Flat Earth"
+    },
+    {
+      "author": "rvc-2011",
+      "url": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10805.jpg",
+      "thumb": "http://dri2skomnje6l.cloudfront.net/174026-wallpaper-flat-earth-theory_thumb.jpg",
+      "name": "OpenIndiana"
     }
   ]
 }
