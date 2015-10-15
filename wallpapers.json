@@ -1,10 +1,22 @@
 {
   "walls": [
+     {
+      "author": "rvc-2011",
+      "url": "http://dri2skomnje6l.cloudfront.net/98790-LightFish1920X1200a.jpg",
+      "thumb": "http://dri2skomnje6l.cloudfront.net/98790-LightFish1920X1200a_thumb.jpg",
+      "name": "Light Fish"
+    },
     {
       "author": "rvc-2011",
       "url": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x1080.jpg",
       "thumb": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x1080_thumb.jpg",
       "name": "Illumos 1"
+    },
+    {
+      "author": "linuzoid",
+      "url": "http://dri2skomnje6l.cloudfront.net/170469-liteyear4NL",
+      "thumb": "http://dri2skomnje6l.cloudfront.net/170469-liteyear4NL_thumb.jpg",
+      "name": "Lightyear4"
     },
     {
       "author": "rvc-2011",
@@ -17,6 +29,12 @@
       "url": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10802.jpg",
       "thumb": "http://dri2skomnje6l.cloudfront.net/WS_wall_papers_for_illumos_based_distros-1920x10802_thumb.jpg",
       "name": "Illumos 3"
+    },
+     {
+      "author": "linuzoid",
+      "url": "http://dri2skomnje6l.cloudfront.net/170469-liteyear3NL",
+      "thumb": "http://dri2skomnje6l.cloudfront.net/170469-liteyear3NL_thumb.jpg",
+      "name": "Lightyear3"
     },
     {
       "author": "rvc-2011",
